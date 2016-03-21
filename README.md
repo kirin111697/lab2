@@ -1,3 +1,3 @@
 # lab2
 
-make
+use "make" to compile
